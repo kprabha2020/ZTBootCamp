@@ -1,0 +1,9 @@
+{
+	"name": "adf-prabha-bootcamp",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69765eef-bd22-4c5d-a200-7d75364b9043",
+		"tenantId": "ad0b7821-86ee-46c4-841a-be99da55a98e"
+	}
+}
